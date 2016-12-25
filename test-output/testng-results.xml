@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="21662" started-at="2016-12-25T08:48:07Z" finished-at="2016-12-25T08:48:29Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="21662" started-at="2016-12-25T08:48:07Z" finished-at="2016-12-25T08:48:29Z">
+      <class name="comwd.JenkinTest">
+        <test-method status="PASS" signature="HDFCBank()[pri:0, instance:comwd.JenkinTest@13a57a3b]" name="HDFCBank" duration-ms="21634" started-at="2016-12-25T14:18:07Z" finished-at="2016-12-25T14:18:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- HDFCBank -->
+      </class> <!-- comwd.JenkinTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
